@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "https://127.0.0.1:8000";
+  const API_BASE = "https://mental-health-score-2-m2jw.onrender.com";
 
 // https://mansik-santulan-score.onrender.com"
 
